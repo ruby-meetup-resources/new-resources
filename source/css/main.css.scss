@@ -1,0 +1,19 @@
+@import "bootstrap";
+
+section {
+  padding: 40px 0;
+
+  &.dark {
+    background: darken($body-bg, 6.5%);
+  }
+
+  &.jumbotron {
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: $grid-float-breakpoint) {
+  .nav.navbar-nav.pull-right {
+    float: none!important;
+  }
+}
