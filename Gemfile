@@ -8,6 +8,6 @@ gem "middleman", "~>3.2.1"
 gem "middleman-livereload", "~> 3.1.0"
 
 # For publishing on GitHub
-gem "middleman-gh-pages"
+gem "middleman-deploy"
 
 gem "bootstrap-sass"
