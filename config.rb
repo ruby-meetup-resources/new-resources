@@ -7,7 +7,7 @@ end
 activate :deploy do |deploy|
   deploy.method = :git
   deploy.branch = "master"
-  deploy.remote = "live"
+  deploy.remote = "git@github.com:ruby-meetup-resources/ruby-meetup-resources.github.io.git"
 end
 
 set :css_dir, 'stylesheets'
