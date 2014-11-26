@@ -1,6 +1,6 @@
 ---
-title: Example Article
-date: 2012-01-01
+title: Ruby Warrior
+date: 2014-11-25
 tags: example
 ---
 

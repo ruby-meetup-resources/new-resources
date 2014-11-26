@@ -11,4 +11,5 @@ gem "builder", "~> 3.0"
 gem "middleman-deploy"
 
 gem "bootstrap-sass"
+gem "nokogiri"
 
