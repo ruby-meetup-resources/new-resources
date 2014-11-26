@@ -7,6 +7,7 @@ end
 activate :deploy do |deploy|
   deploy.method = :git
   deploy.branch = "master"
+  deploy.remote = "live"
 end
 
 set :css_dir, 'stylesheets'
