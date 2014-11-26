@@ -1,0 +1,11 @@
+---
+title: raffler
+date: 2014-11-26 10:30 UTC
+tags:
+---
+
+[Raffler](https://github.com/SloveniaRUG/raffler) provides a way to raffle among attendees of your meetup.
+
+We at [Slovenia Ruby User Group](https://github.com/SloveniaRUG) have several things to give away each time, so we made a simple app that raffles `n` people from everyone who attended on meetup.com. You can just go to [the website](http://raffle.rug.si/), input your meetup.com Group URL Name or ID and select the meetup. Here's an [example for our October meetup](http://raffle.rug.si/event/209625822). You can deselect the people you don't want raffled (like organisers) then input the number of the rewards you have and click `Raffle`. It's that easy.
+
+BTW PRs are wellcome!
